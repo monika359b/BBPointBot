@@ -2,7 +2,7 @@ let libPrefix = "TronLib";
 
 function load(){
 
-  HTTP.post( {
+  HTTP.get( {
 
     url: "https://tronb-production.up.railway.app/",
 
