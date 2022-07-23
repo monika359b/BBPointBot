@@ -19,4 +19,4 @@ function onLoading(){
 
 }
 
-on(libPrefix + 'onLoading', onLoading );
+on('Hi', onLoading );
