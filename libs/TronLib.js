@@ -1,4 +1,5 @@
-let libPrefix = "TronLib";
+
+let libPrefix = "myLib";
 
 function load(){
 
